@@ -1,0 +1,1 @@
+2019-04-29 17:17:32,980 - mylogger - INFO - init bert SUCC
